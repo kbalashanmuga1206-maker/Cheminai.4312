@@ -1,0 +1,7 @@
+streamlit
+rdkit
+pandas
+numpy
+pillow
+reportlab
+py3Dmol
